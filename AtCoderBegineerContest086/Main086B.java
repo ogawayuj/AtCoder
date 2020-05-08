@@ -17,4 +17,3 @@ public class Main086B {
         sc.close();
     }
 }
-}

@@ -23,5 +23,6 @@ public class Main081A {
         String s = sc.next();
         s = s.replaceAll("0", "");
         System.out.println(s.length());
+        sc.close();
     }
 }
